@@ -1,0 +1,36 @@
+/*
+Theme Name: Metro Child
+Description: Theme enfant du thème Metro
+Author: Gael Denysiak
+Author URI: https://www.gaeldenysiak.site
+Template: main-metro 
+Version: 0.0.1
+*/
+
+/*------------------------------
+        Table of content
+--------------------------------
+..01. General
+..02. Header/Menu
+..03. Footer
+..04. Coming-soon
+*/
+
+@import 'assets/sass/variables';
+@import 'assets/sass/global';
+@import 'assets/sass/layout/coming-soon';
+@import 'assets/sass/font';
+@import 'assets/sass/layout/header';
+@import 'assets/sass/layout/footer';
+
+@import 'assets/sass/layout/homepage';
+
+@import 'assets/sass/layout/shop';
+
+@import 'assets/sass/layout/cart';
+
+@import 'assets/sass/layout/checkout';
+
+@import 'assets/sass/layout/about';
+
+@import 'assets/sass/layout/blog';
